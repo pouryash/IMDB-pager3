@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMDB</string>
+
+    <string name="dummy_title">Avengers</string>
+    <string name="dummy_date_lang">11/04/2016 (US)</string>
+    <string name="dummy_overview">Lorem Ipsum is simply dummy text of the printing and
+        typesetting industry. Lorem Ipsum has been the industrys
+        standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+    </string>
+</resources>
